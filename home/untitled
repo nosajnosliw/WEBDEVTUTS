@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>HTML</title>
+	</head>
+	<body>
+		You are in the HTML Directory. 
+
+		<a href ="../home/index.com" target="_blank">Go to the Home directory</a>
+		<a href ="/content/index.html">Go to the content directory?</a>
+	</body>
+</html>
